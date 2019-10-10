@@ -1,0 +1,13 @@
+0[n:Type book name here][a:Type author name here][p:Type publisher name here][r:0][t:0][d:1234123123]
+1[n:Баобаб][a:Type author name here][p:Type publisher name here][r:1231][t:0][d:ыдфващш1фываыфлвда
+ыфва
+г34шщолтьбюаыфва
+ываотьыва]
+2[n:Диалоги][a:Платон][p:Греческая античная литература][r:1991][t:0][d:Какое-то описание 
+c несколькими 
+небольшими энтерами]
+3[n:Ритета][a:Type author name here][p:Type publisher name here][r:0][t:0][d:ыаловыла
+ыфдвлаодылвоалдфы
+афываожыфдвлажыфдвлажыфвлазхшук
+12312515ц
+ывапыволадпжлывда]
